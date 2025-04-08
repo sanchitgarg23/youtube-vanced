@@ -174,7 +174,7 @@
 
 
 import React, { useEffect, useState } from 'react'
-import './PlayVideo.css'
+import './playVideo.css'
 import like from '../../assets/like.png'
 import dislike from '../../assets/dislike.png'
 import share from '../../assets/share.png'
